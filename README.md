@@ -21,7 +21,7 @@ Multi-screen navigation app demonstrating React Navigation with Stack and Tab na
 
 ```bash
 # Clone repository
-git clone [your-repo-url]
+git clone https://github.com/Sancoltos/NavigationApp
 cd NavigationApp
 
 # Install dependencies
